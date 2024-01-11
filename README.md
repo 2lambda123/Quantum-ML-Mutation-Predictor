@@ -7,7 +7,7 @@ First, we train a Quantum-hybrid Variational Autoencoder to encode and decode th
 Then, we train a Quantum-hybrid LSTM time series predictor on the encoded and vectorized data.
 Then, the make and decode our predictions using decoded trained in the QVAE.
 
-Currently, the model achieves an accuracy of 98.5%, with a median error of 8 from the 566 amino acids present in the sample data points
+Currently, the model achieves an accuracy of 99.2%, with a median error of 6 from the 566 amino acids present in the sample data points
 
 
 This project would be useful for preemptive vaccine synthesis, which would cut down the deaths and total infections of seasonal diseases by having a vaccine prepared for unknown mutations.
