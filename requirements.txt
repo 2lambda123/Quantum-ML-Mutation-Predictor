@@ -161,6 +161,6 @@ urllib3==1.26.18
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==3.0.3
-wrapt==1.12.1
+wrapt==1.13.0
 zipp==3.4.0
 zipp==3.4.0
